@@ -1,4 +1,5 @@
 {
+	"version": "0.1.0",
 	"name": "@teamscala/runtime-messaging-service-rpc",
 	"_generated": {
 		"system": "runtime-messaging-service-rpc",
