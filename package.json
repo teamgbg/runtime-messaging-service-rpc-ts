@@ -1,0 +1,16 @@
+{
+	"name": "@teamscala/runtime-messaging-service-rpc",
+	"_generated": {
+		"system": "runtime-messaging-service-rpc",
+		"status": "generated",
+		"edit": "edit src/ — dependencies and exports derive from imports; everything else preserved"
+	},
+	"dependencies": {
+		"@teamscala/logger": "*",
+		"@teamscala/runtime-auth-flow-config": "*"
+	},
+	"exports": {
+		"./messaging-service-rpc": "./src/messaging-service-rpc.ts",
+		"./messaging-service-rpc.ts": "./src/messaging-service-rpc.ts"
+	}
+}
